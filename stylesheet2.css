@@ -1,0 +1,36 @@
+.box {
+   width: 800px;
+   background: rgba(0, 0, 0, 0.5);
+   padding: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top: 5%;
+   color: white;
+   font-family: times new roman;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.box li {
+	display: inline-block;
+	margin: 6px;
+	list-style: none;
+}
+
+.box li a {
+	color: white;
+	text-decoration: none;
+	font-size: 60px;
+	transition: all ease-in-out 250ms;
+}
+
+img {
+	border-radius: 50%;
+	border: solid;
+	width: 250px;
+	height: 250px;	
+}
